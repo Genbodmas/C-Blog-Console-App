@@ -1,0 +1,6 @@
+c:\users\gen bodmas\documents\visual studio 2015\Projects\Blog_ConsoleApp\Blog_ConsoleApp\bin\Debug\Blog_ConsoleApp.exe.config
+c:\users\gen bodmas\documents\visual studio 2015\Projects\Blog_ConsoleApp\Blog_ConsoleApp\bin\Debug\Blog_ConsoleApp.exe
+c:\users\gen bodmas\documents\visual studio 2015\Projects\Blog_ConsoleApp\Blog_ConsoleApp\bin\Debug\Blog_ConsoleApp.pdb
+c:\users\gen bodmas\documents\visual studio 2015\Projects\Blog_ConsoleApp\Blog_ConsoleApp\obj\Debug\Blog_ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\gen bodmas\documents\visual studio 2015\Projects\Blog_ConsoleApp\Blog_ConsoleApp\obj\Debug\Blog_ConsoleApp.exe
+c:\users\gen bodmas\documents\visual studio 2015\Projects\Blog_ConsoleApp\Blog_ConsoleApp\obj\Debug\Blog_ConsoleApp.pdb
